@@ -1,3 +1,8 @@
+---
+layout: cv
+title: Nicolas Migueles's CV
+---
+
 # Nicolás Migueles
 
 - <nicolasmigueles99@gmail.com>
