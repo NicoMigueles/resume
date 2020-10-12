@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Nicolas Migueles's CV
+title: Nicolas Migueles
 ---
 
 # Nicolás Migueles
